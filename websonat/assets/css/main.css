@@ -1367,6 +1367,8 @@
 				background-color: rgba(255, 255, 255, 0.05);
 				border-color: transparent;
 				color: inherit;
+				width: 50%;
+				margin-bottom:15px;
 			}
 
 				.wrapper.style2 input[type="text"]:focus,
